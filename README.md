@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **kiranraulo@gmail.com**
+- 📫 How to reach me **kiranraulowork@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
